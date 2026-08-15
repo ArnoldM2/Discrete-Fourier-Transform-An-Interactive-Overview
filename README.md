@@ -54,6 +54,9 @@ python main.py --shape square --no-circles
 python main.py --shape heart --cycles 2
 ```
 
+- ### Examples
+![til](./imgs/infinity.gif)
+
 ### Useful parameters
 |Flag                   |Usage                                            |
 |-----------------------|-------------------------------------------------|
